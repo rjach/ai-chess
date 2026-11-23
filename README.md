@@ -144,7 +144,7 @@ Pausing or ending a game cancels the request in progress, which stops the CLI pr
 
 ```bash
 npm test           # unit tests (vitest): reply parser, match rules, video timeline, OpenRouter routing
-npm run typecheck  # tsc --noEmit
+npm run typecheck  # generates route types, then tsc --noEmit
 npm run lint       # eslint
 npm run build      # production build
 ```
