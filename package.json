@@ -29,7 +29,7 @@
     "eslint-config-next": "16.4.6",
     "playwright": "1.61",
     "tailwindcss": "4.3.3",
-    "typescript": "^5",
+    "typescript": "^7",
     "vite": "^8.3.8",
     "vitest": "^5.1.1"
   },
