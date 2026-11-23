@@ -13,22 +13,22 @@
   "dependencies": {
     "chess.js": "^1.4.0",
     "mediabunny": "^1.66.2",
-    "motion": "^14.10.0",
+    "motion": "^14.14.0",
     "next": "16.4.6",
-    "react": "19.3.0",
+    "react": "19.3.1",
     "react-chessboard": "^5.12.4",
-    "react-dom": "19.3.0",
+    "react-dom": "19.3.1",
     "server-only": "^0.0.1"
   },
   "devDependencies": {
-    "@tailwindcss/turbopack": "4.3.3",
+    "@tailwindcss/turbopack": "4.3.5",
     "@types/node": "^24.19.2",
     "@types/react": "^19",
     "@types/react-dom": "^19",
     "eslint": "^9",
     "eslint-config-next": "16.4.6",
-    "playwright": "1.61",
-    "tailwindcss": "4.3.3",
+    "playwright": "1.65",
+    "tailwindcss": "4.3.5",
     "typescript": "^5",
     "vite": "^8.3.8",
     "vitest": "^5.1.1"
